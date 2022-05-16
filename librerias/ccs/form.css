@@ -1,0 +1,39 @@
+
+.fcc {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    background-color: #299b42;
+    color: white;
+    padding: 15px 25px;
+    text-decoration: none;
+    border-color: #00000042;
+    border-radius: 10px;
+    border-style: solid;
+  }
+  div#boton1{
+     position: absolute;
+     left: 100px;
+     top: 118px;
+  }
+  div#boton2{
+    position: absolute;
+    left: 350px;
+    top: 118px;  
+  }
+  div#boton3{
+    position: absolute;
+    left: 649px;
+    top: 118px; 
+  }
+  div#img{
+   position: absolute;
+   left: 2cm;
+   right: 2cm;
+   top: 3cm;   
+  }
+
+  #marque{
+  font-size: 25px; 
+  background-color: #299b42; 
+  color: white;  
+  }
